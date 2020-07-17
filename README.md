@@ -1,3 +1,11 @@
-- 🎓🎓 I’m currently learning HTML/CSS/Javascript/Boostrap/Php/mySQL/JQuery/ReactJS/ and lot of others interestings languages in that wonderful web development's world...
-- 🙂-> It's me, hairless, always smiling, 32 years old, 2 kids.
-- 🧡 Love nature, travels, football (⚠ not soccer ⚠), fitness, eco-friendliness.
+---
+title: "Profil"
+author: "thiebautremy"
+date: "17/07/2020"
+output: 
+  html_document:
+  css: style.css
+---
+### 🎓 I’m currently learning HTML/CSS/Javascript/Boostrap/Php/mySQL/JQuery/ReactJS/ and lot of others interestings languages in that wonderful web development's world...
+### 🙂 It's me, hairless, always smiling, 32 years old, 2 kids.
+### 🧡 Love nature, travels, football (⚠ not soccer ⚠), fitness, eco-friendliness.
