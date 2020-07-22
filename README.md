@@ -5,4 +5,4 @@
 ### 🙂 It's me, hairless, always smiling, 32 years old, 2 kids.
 ### 🧡 Love nature, travels, football (⚠ not soccer ⚠), fitness, eco-friendliness.
 
-<p aling="center"><img src="https://github-readme-stats.vercel.app/api?username=thiebautremy&show_icons=true" alt="thiebautremy"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thiebautremy&show_icons=true" alt="thiebautremy"/></p>
