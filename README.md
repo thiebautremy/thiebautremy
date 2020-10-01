@@ -1,7 +1,7 @@
 <h1 align="center">thiebautremy</h1>
 <h2 align="center">Fullstack developper from Nancy, France </h2>
 
-### 🎓 I’m currently learning HTML/CSS/Javascript/Boostrap/Php/mySQL/JQuery/ReactJS/ and lot of others interestings languages in that wonderful web development's world...
+### 🎓 HTML/CSS/Javascript/Boostrap/Php/mySQL/JQuery/ReactJS/ and lot of others interestings languages in that wonderful web development's world...
 ### 🙂 It's me, hairless, always smiling, 32 years old, 2 kids.
 ### 🧡 Love nature, travels, football (⚠ not soccer ⚠), fitness, eco-friendliness.
 <p align="center">
