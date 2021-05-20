@@ -1,5 +1,5 @@
 <h1 align="center">thiebautremy</h1>
-<h2 align="center">Fullstack developper from Nancy, France </h2>
+<h2 align="center">Fullstack developper from Metz, France </h2>
 
 ### 🎓 HTML/CSS/Javascript/Boostrap/Php/mySQL/JQuery/ReactJS/ and lot of others interestings languages in that wonderful web development's world...
 ### 🙂 It's me, hairless, always smiling, 2 kids.
