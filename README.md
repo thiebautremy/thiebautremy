@@ -6,7 +6,7 @@
 ### 🧡 Love nature, travels, football (⚠ not soccer ⚠), fitness, eco-friendliness.
 <section data-markdown>
   <textarea data-template>
-<div class="flex-container">
+<div style="display: flex">
   <div>
     <p align="center">
     <a href="https://www.linkedin.com/in/r%C3%A9my-thiebaut-9b807b129/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Rémy THIEBAUT Linkedin"/></a>
