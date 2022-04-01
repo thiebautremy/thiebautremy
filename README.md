@@ -1,7 +1,7 @@
 <h1 align="center">thiebautremy</h1>
 <h2 align="center">Fullstack developper from Metz, France </h2>
 
-### 🎓 HTML/CSS/Javascript/Boostrap/Php/SQL/NoSQL/JQuery/ReactJS/NodeJS/Symfony and lot of others interestings languages in that wonderful web development's world...
+### 🎓 ReactJS/NodeJS/Symfony
 ### 🙂 It's me, hairless, always smiling, 2 kids.
 ### 🧡 Love nature, travels, football (⚠ not soccer ⚠), fitness, eco-friendliness.
 <p align="center">
