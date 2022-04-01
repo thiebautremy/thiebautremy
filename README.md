@@ -2,7 +2,7 @@
 <h2 align="center">Fullstack developper from Metz, France </h2>
 
 ### 🎓 ReactJS/NodeJS/Symfony
-### 🙂 It's me, hairless, always smiling, 2 kids.
+### 🙂 34 years old, hairless, 2 kids, always smiling.
 ### 🧡 Love nature, travels, football (⚠ not soccer ⚠), fitness, eco-friendliness.
 <p align="center">
     <a href="https://www.linkedin.com/in/r%C3%A9my-thiebaut-9b807b129/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Rémy THIEBAUT Linkedin"/></a>
