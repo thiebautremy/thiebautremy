@@ -8,5 +8,5 @@
     <a href="https://www.linkedin.com/in/r%C3%A9my-thiebaut-9b807b129/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Rémy THIEBAUT Linkedin"/></a>
  </p>
   <div align="right">
-    <a href="https://app.daily.dev/remy_tht"><img src="https://api.daily.dev/devcards/34504ffba1cb427aad6c54c8793e2169.png?r=178" width="400" alt="THIEBAUT's Dev Card"/></a>
+    <a href="https://app.daily.dev/remy_tht"><img src="https://api.daily.dev/devcards/34504ffba1cb427aad6c54c8793e2169.png?r=80p" width="400" alt="THIEBAUT's Dev Card"/></a>
   </div>
