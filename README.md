@@ -10,5 +10,5 @@
   <div align="right">
     <a href="https://app.daily.dev/remy_tht"><img src="https://api.daily.dev/devcards/34504ffba1cb427aad6c54c8793e2169.png?r=b70" width="400" alt="THIEBAUT's Dev Card"/></a>
   </div>
-  &nbsp;[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;<a href="https://thiebautremy.netlify.app/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;<a href="mailto:remythiebaut52@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://thiebautremy.netlify.app/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;<a href="mailto:remythiebaut52@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
