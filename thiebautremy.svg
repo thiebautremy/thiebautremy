@@ -42,7 +42,7 @@
 
       <div class="container">
         <h1 class="container__title">Hi there, my name is Rémy <div class="hi">👋</div></h1>
-        <p class="container__devCard"><a href="https://app.daily.dev/remy_tht"><img src="https://api.daily.dev/devcards/34504ffba1cb427aad6c54c8793e2169.png?r=08m" width="400" alt="THIEBAUT's Dev Card"/></a></p>
+        <p align="center" class="container__devCard"><a href="https://app.daily.dev/remy_tht"><img src="https://api.daily.dev/devcards/34504ffba1cb427aad6c54c8793e2169.png?r=08m" width="400" alt="THIEBAUT's Dev Card"/></a></p>
       </div>
     </div>
   </foreignObject>
