@@ -2,13 +2,15 @@
   <div>
     <h1>Hi there, my name is Rémy 👋</h1>
     <h2>Fullstack developper from Metz, France 🇫🇷</h2>
-    - **ReactJS**
-    - **NodeJs**
-    - **React-native**
-    - **NextJS**
-    - **Redux**
-    - **Firebase / MongoDB**
-    - **SASS**
+    <ul>
+      <li><strong>ReactJS</strong></li>
+      <li><strong>NodeJs</strong></li>
+      <li><strong>React-native</strong></li>
+      <li><strong>NextJS</strong></li>
+      <li><strong>Redux</strong></li>
+      <li><strong>Firebase / MongoDB</strong></li>
+      <li><strong>SASS</strong></li>
+      </ul>
     <p>🙂 Hairless, 2 kids, always smiling.</p>
     <p>🧡 Like nature, travels, football (⚠ not soccer ⚠), fitness, eco-friendliness.</p>
   </div>
