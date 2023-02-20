@@ -1,6 +1,6 @@
 <div style="width: 100%; display: flex">
   <div>
-    <h1>Hi there, my name is Rémy <img src="./thiebautremy.svg" style="width: 100%;" alt="Click to see the source"></h1>
+    <img src="./thiebautremy.svg" style="width: 100%;" alt="Click to see the source">
     <h2>Fullstack developper from Metz, France </h2>
     <p>🎓 ReactJS/NodeJS/NextJS/Redux/Firebase/MongoDB/SASS</p>
     <p>🙂 Hairless, 2 kids, always smiling.</p>
