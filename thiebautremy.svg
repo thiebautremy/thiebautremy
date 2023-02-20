@@ -14,13 +14,13 @@
         }
 
         .container {
-          background-color: black;
+          background-color: #0D1117;
 
           width: 100%;
           height: 300px;
 
           display: flex;
-          justify-content: center;
+          justify-content: space-between;
           align-items: center;
           color: white;
 
@@ -41,7 +41,8 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Rémy <div class="hi">👋</div></h1>
+        <h1 class="container__title">Hi there, my name is Rémy <div class="hi">👋</div></h1>
+        <div class="container__devCard"><a href="https://app.daily.dev/remy_tht"><img src="https://api.daily.dev/devcards/34504ffba1cb427aad6c54c8793e2169.png?r=08m" width="400" alt="THIEBAUT's Dev Card"/></a></div>
       </div>
     </div>
   </foreignObject>
