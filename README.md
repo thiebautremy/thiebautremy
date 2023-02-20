@@ -1,8 +1,14 @@
 <div style="width: 100%; display: flex">
   <div>
-    <h1>Hi there, my name is Rémy </h1>
-    <h2>Fullstack developper from Metz, France </h2>
-    <p>🎓 ReactJS/NodeJS/NextJS/Redux/Firebase/MongoDB/SASS</p>
+    <h1>Hi there, my name is Rémy 👋</h1>
+    <h2>Fullstack developper from Metz, France 🇫🇷</h2>
+    - **ReactJS**
+    - **NodeJs**
+    - **React-native**
+    - **NextJS**
+    - **Redux**
+    - **Firebase / MongoDB**
+    - **SASS**
     <p>🙂 Hairless, 2 kids, always smiling.</p>
     <p>🧡 Like nature, travels, football (⚠ not soccer ⚠), fitness, eco-friendliness.</p>
   </div>
