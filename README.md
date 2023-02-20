@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="./thiebautremy.svg" style="width: 50%;" alt="Click to see the source">
+  <img src="./thiebautremy.svg" style="width: 100%;" alt="Click to see the source">
 </div>
   <p align="center"><a href="https://app.daily.dev/remy_tht"><img src="https://api.daily.dev/devcards/34504ffba1cb427aad6c54c8793e2169.png?r=08m" width="400" alt="THIEBAUT's Dev Card"/></a></p>
 
