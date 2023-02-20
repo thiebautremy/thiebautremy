@@ -1,5 +1,10 @@
 <div style="width: 100%; display: flex">
-  <img src="./thiebautremy.svg" style="width: 100%;" alt="Click to see the source">
+  
+  <h1>Hi there, my name is Rémy <img src="./thiebautremy.svg" style="width: 100%;" alt="Click to see the source"></h1>
+        <h2>Fullstack developper from Metz, France </h2>
+        <p>🎓 ReactJS/NodeJS/NextJS/Redux/Firebase/MongoDB/SASS</p>
+        <p>🙂 Hairless, 2 kids, always smiling.</p>
+        <p>🧡 Like nature, travels, football (⚠ not soccer ⚠), fitness, eco-friendliness.</p>
    <p align="center"><a href="https://app.daily.dev/remy_tht"><img src="https://api.daily.dev/devcards/34504ffba1cb427aad6c54c8793e2169.png?r=08m" width="400" alt="THIEBAUT's Dev Card"/></a></p>
 </div>
  
