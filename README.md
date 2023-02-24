@@ -3,7 +3,7 @@
     <h1>Hi there, my name is Rémy 👋</h1>
     <h2>Fullstack developper from Metz, France 🇫🇷</h2>
     <ul>
-      <li><strong>ReactJS</strong></li>
+      <li><strong>ReactJS / TypeScript</strong></li>
       <li><strong>NodeJs</strong></li>
       <li><strong>React-native</strong></li>
       <li><strong>NextJS</strong></li>
