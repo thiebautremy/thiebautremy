@@ -8,7 +8,7 @@
       <li><strong>React-native</strong></li>
       <li><strong>NextJS</strong></li>
       <li><strong>Redux</strong></li>
-      <li><strong>Firebase / MongoDB</strong></li>
+      <li><strong>Firebase / MongoDB / MySQL / MariaDB</strong></li>
       <li><strong>SASS</strong></li>
       </ul>
     <p>🙂 Hairless, 2 kids, always smiling.</p>
