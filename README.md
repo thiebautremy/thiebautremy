@@ -4,7 +4,7 @@
     <h2>Fullstack developper from Metz, France 🇫🇷</h2>
     <ul>
       <li><strong>ReactJS / TypeScript</strong></li>
-      <li><strong>NodeJs</strong></li>
+      <li><strong>NodeJs / Symfony</strong></li>
       <li><strong>React-native</strong></li>
       <li><strong>NextJS</strong></li>
       <li><strong>Redux</strong></li>
